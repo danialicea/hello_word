@@ -2,4 +2,5 @@
 example first repository
 this is a test about commit command in a new branch
 
-I hope understand this :) 
+I hope mejor otro
+y agrego otro
